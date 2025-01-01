@@ -9,7 +9,7 @@ fetch('Json/items.json')
 			itemCard.className = 'item-card';
 
 			const itemImage = document.createElement('img');
-			itemImage.src = "/images/" + item.Image + ".jpg";
+			itemImage.src = "images/" + item.Image + ".jpg";
 			itemImage.alt = item.Name;
 			itemCard.appendChild(itemImage);
 
