@@ -17,7 +17,7 @@ function Logout() {
 
 	if (loggedin == 1) {
 		localStorage.setItem('loggedIn', 0);
-		window.location.href = "Home.html";
+		window.location.href = "index.html";
 	} else {
 		window.location.href = "Login.html";
 	}

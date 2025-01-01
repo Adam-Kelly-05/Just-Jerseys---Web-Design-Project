@@ -8,7 +8,7 @@ function loginUser(event) {
 	if (email == "Batman@email.com" && password == "Batman123") {
 		localStorage.setItem('loggedIn', 1);
 		console.log("LOGGIN SUCCESSFUL")
-		window.location.href = "Home.html";
+		window.location.href = "index.html";
 	} else {
 		alert("invalid login details");
 		localStorage.setItem('loggedIn', 0);
