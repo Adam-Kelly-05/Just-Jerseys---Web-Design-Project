@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Manchester United 2024-2025 Home",
+        "Image": "ManUnited24Home",
+        "Price": "€60"
+    },
+    {
+        "Name": "Manchester United 2024-2025 Away",
+        "Image": "ManUnited24Away",
+        "Price": "€60"
+    },
+    {
+        "Name": "Manchester United 2024-2025 Training",
+        "Image": "ManUnited24Training",
+        "Price": "€49"
+    },
+    {
+        "Name": "Sligo Rovers 2022 Third",
+        "Image": "SligoRovers22Third",
+        "Price": "€19"
+    },
+    {
+        "Name": "Sligo Rovers 2024 Home",
+        "Image": "SligoRovers24Home",
+        "Price": "€39"
+    },
+    {
+        "Name": "Sligo Rovers 2025 Home",
+        "Image": "SligoRovers25Home",
+        "Price": "€65"
+    },
+    {
+        "Name": "Barcelona 2024-2025 Home",
+        "Image": "Barcelona24Home",
+        "Price": "€95"
+    },
+    {
+        "Name": "Ajax 2024-2025 Home",
+        "Image": "Ajax24Home",
+        "Price": "€59"
+    }
+]
