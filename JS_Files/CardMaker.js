@@ -1,4 +1,4 @@
-fetch('/Json/items.json')
+fetch('Json/items.json')
 	.then(response => response.json())
 	.then(items => {
 
@@ -40,9 +40,5 @@ fetch('/Json/items.json')
 			}
 
 			i++
-
-			//ADD IMAGES TO IMAGES FOLDER WITH RIGHT NAME
-			//TEST
-			//PUT FILES ON ONEDRIVE
 		})
 	})
